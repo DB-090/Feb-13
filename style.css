@@ -6,6 +6,7 @@ body {
 img {
     width: 200px;
     margin: 100px auto 50px;
+    border-radius: 50%;
 }
 
 h3,
